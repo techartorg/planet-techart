@@ -1,0 +1,1 @@
+-e git+https://github.com/rgalanakis/planet-mars.git#egg=planet_mars-master
